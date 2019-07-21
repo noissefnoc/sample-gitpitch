@@ -8,3 +8,8 @@ This is first message.
 
 This is second message.
 
+---
+@snap[west span-50]
+### Architecture Diagram
+ほげほげ
+@snapend
